@@ -62,5 +62,30 @@
 >> **main ();** 
 >>> description: ``run``
 
+#### Lista Dinâmica Duplamente Encadeada
+> ##### Métodos
+>> **insereInicio (ponteiroInicio, elemento);** 
+>>> description: ``insere um elemento no início da lista``
+
+>> **insereMeio (ponteiroInicio, elemento);** 
+>>> description: ``insere um elemento no meio da lista``
+
+>> **insereFinal (ponteiroInicio, elemento);** 
+>>> description: ``insere um elemento no fim da lista``
+
+>> **removeInicio (elemento);** 
+>>> description: ``remove um elemento do início da lista``
+
+>> **removeMeio (ponteiroInicio, elemento);** 
+>>> description: ``remove um elemento do meio da lista``
+
+>> **removeFinal (elemento);** 
+>>> description: ``remove um elemento no fim da lista``
+
+>> **printar (ponteiroInicio);** 
+>>> description: ``exibe a lista com os elementos e suas ligações``
+
+>> **main ();** 
+>>> description: ``run``
 
 
