@@ -1,2 +1,11 @@
-# implementacoes-estrutura-de-dados
-Repositório destinado a manter algumas implementações da disciplina de Estrutura de Dados
+# Algumas implementações base de Estrutura de Dados
+
+### Estruturas implementadas:
+
+> ``Pilha Dinâmica``
+	 
+> ``Fila Dinâmica``
+
+> ``Lista Dinâmica Simplesmente Encadeada``
+
+> ``Lista Dinâmica Duplamente Encadeada``
