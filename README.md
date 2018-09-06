@@ -7,11 +7,11 @@
 >> **push (ponteiroInicio, elemento);** 
 >>> description: ``empilha elemento``
 
->> **conta (ponteiroInicio);** 
->>> description: ``conta quantidade de nodos da pilha``
-
 >> **pop (ponteiroInicio);** 
 >>> description: ``desempilha um elemento``
+
+>> **conta (ponteiroInicio);** 
+>>> description: ``conta quantidade de nodos da pilha``
 
 >> **isVazia (ponteiroInicio);** 
 >>> description: ``checa se a pilha está vazia``
@@ -19,11 +19,23 @@
 >> **main ();** 
 >>> description: ``run``
  
-* Fila Dinâmica
-> Métodos
+#### Fila Dinâmica
+> ##### Métodos
+>> **enfileira (ponteiroInicio, elemento);** 
+>>> description: ``enfileira elemento``
 
-* Lista Dinâmica Simplesmente Encadeada
-> Métodos
+>> **desenfileira (ponteiroInicio);** 
+>>> description: ``desenfileira um elemento``
 
-* Lista Dinâmica Duplamente Encadeada
-> Métodos
+>> **conta (ponteiroInicio);** 
+>>> description: ``conta quantidade de nodos da fila``
+
+>> **isVazia (ponteiroInicio);** 
+>>> description: ``checa se a fila está vazia``
+
+>> **main ();** 
+>>> description: ``run``
+
+
+
+
