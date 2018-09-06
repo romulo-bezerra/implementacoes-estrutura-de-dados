@@ -1,15 +1,29 @@
 # Algumas implementações base de Estrutura de Dados
 
-### Estruturas implementadas:
+## Estruturas implementadas:
 
-* Pilha Dinâmica
-0. ``Métodos``
+#### Pilha Dinâmica
+> ##### Métodos
+>> **push (ponteiroInicio, elemento);** 
+>>> description: ``empilha elemento``
+
+>> **conta (ponteiroInicio);** 
+>>> description: ``conta quantidade de nodos da pilha``
+
+>> **pop (ponteiroInicio);** 
+>>> description: ``desempilha um elemento``
+
+>> **isVazia (ponteiroInicio);** 
+>>> description: ``checa se a pilha está vazia``
+
+>> **main ();** 
+>>> description: ``run``
  
 * Fila Dinâmica
-0. ``Métodos``
+> Métodos
 
 * Lista Dinâmica Simplesmente Encadeada
-0. ``Métodos``
+> Métodos
 
 * Lista Dinâmica Duplamente Encadeada
-0. ``Métodos``
+> Métodos
