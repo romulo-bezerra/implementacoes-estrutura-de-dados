@@ -2,10 +2,14 @@
 
 ### Estruturas implementadas:
 
-> ``Pilha Dinâmica``
-	 
-> ``Fila Dinâmica``
+* Pilha Dinâmica
+0. ``Métodos``
+ 
+* Fila Dinâmica
+0. ``Métodos``
 
-> ``Lista Dinâmica Simplesmente Encadeada``
+* Lista Dinâmica Simplesmente Encadeada
+0. ``Métodos``
 
-> ``Lista Dinâmica Duplamente Encadeada``
+* Lista Dinâmica Duplamente Encadeada
+0. ``Métodos``
